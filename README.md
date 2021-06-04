@@ -6,7 +6,7 @@
 
 # Pickans Frontend Team Task
 
-Pickans da kullanıcıları karşılayacak olan akış ekranını tasarımı ekte bulunmaktadır. Bu çalışmada istenen bu tasarımın koda dökülmesi.
+Pickans da kullanıcıları karşılayacak olan akış tasarımı ekte bulunmaktadır.Bu çalışmada istenen bu tasarımın koda dökülmesi.
 
 ### Kullanılacak teknolojiler
 
