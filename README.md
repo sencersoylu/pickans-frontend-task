@@ -1,4 +1,3 @@
-
 <p align="center">
     <img src="pickans_beta_logo.png">
     <br/><br/>
@@ -6,7 +5,7 @@
 
 # Pickans Frontend Team Task
 
-Pickans da kullanıcıları karşılayacak olan akış tasarımı ekte bulunmaktadır.Bu çalışmada istenen bu tasarımın koda dökülmesi.
+Pickans da kullanıcıları karşılayacak olan akış tasarımı figma olarak ekte bulunmaktadır.Bu çalışmada istenen bu tasarımın koda dökülmesi.
 
 ### Kullanılacak teknolojiler
 
@@ -14,4 +13,4 @@ Pickans da kullanıcıları karşılayacak olan akış tasarımı ekte bulunmakt
 - Vue
 - Tailwind
 
-![](https://github.com/sencersoylu/pickans-frontend-task/blob/main/pickans-feed.png)
+![](https://github.com/sencersoylu/pickans-frontend-task/blob/main/Mainpage.png)
